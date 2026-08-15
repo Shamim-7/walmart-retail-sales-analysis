@@ -49,19 +49,17 @@ The dashboard is divided into three major analytical views:
 
 Focuses on overall sales performance, sales trends, customer segments, regions, and other key sales metrics.
 
-![sales-analysis.png]
 
 ### 2. Product Dashboard
 
 Focuses on product categories, sub-categories, product performance, and sales contribution.
 
-![Product Dashboard](product.png)
 
 ### 3. Profit Dashboard
 
 Focuses on profitability, profit trends, regional profitability, and areas contributing to overall business performance.
 
-![Profit Dashboard](profit.png)
+
 
 ## 💡 Key Insights
 
