@@ -2,31 +2,32 @@
 
 ## 📊 Project Overview
 
-This project focuses on analyzing Walmart retail sales data to uncover meaningful insights into sales performance, profitability, product categories, customer segments, regional performance, and shipping operations.
+This project focuses on analyzing Walmart retail sales data to uncover meaningful insights into sales performance, product performance, profitability, customer segments, regional trends, and shipping operations.
 
 The project follows an end-to-end business analytics workflow, starting with data cleaning and exploratory analysis in Microsoft Excel and progressing to interactive data visualization and dashboard development using Microsoft Power BI.
 
-The objective is to transform raw retail data into meaningful business insights that can support better decision-making and identify areas for improving sales and profitability.
+The main objective is to transform retail sales data into meaningful business insights that can support data-driven decision-making and help identify opportunities for improving sales and profitability.
 
 ## 🎯 Business Objectives
 
 - Analyze overall sales and profit performance
-- Identify top-performing product categories and sub-categories
-- Understand regional sales and profitability trends
-- Analyze customer segments and their contribution to sales
+- Identify high-performing product categories and sub-categories
+- Analyze product-level sales and profitability
+- Understand regional sales and profit trends
+- Analyze customer segment performance
 - Examine shipping methods and shipping performance
-- Identify trends and patterns in sales and profit
-- Build an interactive dashboard for business reporting
+- Identify important sales and profit trends
+- Develop an interactive business intelligence dashboard
 - Generate actionable insights from the analysis
 
 ## 🛠️ Tools & Technologies
 
-- **Microsoft Excel** – Data cleaning, data preparation, exploratory analysis and calculations
-- **Microsoft Power BI** – Data visualization, KPI analysis and interactive dashboard development
+- **Microsoft Excel** – Data cleaning, data preparation, exploratory analysis, calculations, and initial analysis
+- **Microsoft Power BI** – Data visualization, KPI analysis, interactive dashboards, and business intelligence reporting
 
 ## 🔍 Analysis Performed
 
-The project includes analysis of:
+The project analyzes multiple aspects of Walmart's retail operations, including:
 
 - Sales Performance
 - Profitability
@@ -36,30 +37,43 @@ The project includes analysis of:
 - Regional Performance
 - Shipping Modes
 - Order Trends
-- Sales & Profit KPIs
+- Sales and Profit KPIs
 
 ## 📈 Power BI Dashboard
 
-The Power BI dashboard provides an interactive view of the Walmart sales data and enables users to explore important business metrics and performance trends.
+An interactive Power BI dashboard was developed to present the analysis in a clear and visually engaging format.
 
-### Dashboard Preview
+The dashboard is divided into three major analytical views:
 
-![Dashboard Overview](screenshots/dashboard-overview.png)
+### 1. Sales Dashboard
 
-![Sales Analysis](screenshots/sales-analysis.png)
+Focuses on overall sales performance, sales trends, customer segments, regions, and other key sales metrics.
 
-![Profit Analysis](screenshots/profit-analysis.png)
+![Sales Dashboard](sales.png)
+
+### 2. Product Dashboard
+
+Focuses on product categories, sub-categories, product performance, and sales contribution.
+
+![Product Dashboard](product.png)
+
+### 3. Profit Dashboard
+
+Focuses on profitability, profit trends, regional profitability, and areas contributing to overall business performance.
+
+![Profit Dashboard](profit.png)
 
 ## 💡 Key Insights
 
-The analysis was used to identify:
+The analysis helps identify:
 
 - High-performing product categories and sub-categories
+- Products contributing significantly to sales and profit
 - Differences in sales and profitability across regions
-- Customer segments contributing significantly to revenue
+- Customer segments contributing to overall revenue
 - Trends in sales and profit performance
 - Shipping patterns and their relationship with business performance
-- Areas where business performance can potentially be improved
+- Areas with opportunities for improving business performance
 
 ## 📁 Project Structure
 
@@ -67,12 +81,8 @@ The analysis was used to identify:
 walmart-sales-analysis/
 │
 ├── README.md
-│
 ├── Walmart_Sales_Analysis.xlsx
-│
 ├── Walmart_Sales_Dashboard.pbix
-│
-└── screenshots/
-    ├── dashboard-overview.png
-    ├── sales-analysis.png
-    └── profit-analysis.png
+├── sales.png
+├── product.png
+└── profit.png
