@@ -49,7 +49,7 @@ The dashboard is divided into three major analytical views:
 
 Focuses on overall sales performance, sales trends, customer segments, regions, and other key sales metrics.
 
-![Sales Dashboard](sales.png)
+![sales-analysis.png]
 
 ### 2. Product Dashboard
 
